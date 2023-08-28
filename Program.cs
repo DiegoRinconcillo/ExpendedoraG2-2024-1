@@ -5,5 +5,10 @@ internal class Program
     {
         Expendedora miExpendedora = new Expendedora(true);
 
+
+        //var MiSnack = new Snack();
+
+
+        var MiCafe = new Cafe();
     }
 }
